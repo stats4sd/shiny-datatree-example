@@ -1,0 +1,9 @@
+{
+    "path" : "~/GitProjects/ShinyProduction/DataTree",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
